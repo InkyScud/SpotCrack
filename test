@@ -75,8 +75,7 @@ function Get-File
 Write-Host @'
 *****************
 @mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+   DontClose
 *****************
 '@
 
@@ -309,9 +308,8 @@ Write-Host 'Done.'
 Write-Host @'
 *****************
 @mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
-*****************
+Done Have A Good Day
+********************
 '@
 
 exit
